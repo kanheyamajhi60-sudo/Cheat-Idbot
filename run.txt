@@ -1,0 +1,10 @@
+python-telegram-bot==20.7
+pip install pyTelegramBotAPI
+python idbot.py
+pyTelegramBotAPI
+requests
+
+
+
+pip install pyTelegramBotAPI requests
+python idbot.py
