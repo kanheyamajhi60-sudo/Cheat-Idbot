@@ -2,7 +2,7 @@ import os, time, json, telebot, logging
 from telebot.types import ReplyKeyboardMarkup, InlineKeyboardMarkup, InlineKeyboardButton
 
 # -------------------- CONFIGURATION --------------------
-TOKEN = '8978422983:AAFfb_gDEdZWqk8RSg0J7OZ4l9BzLs6bI1s'
+TOKEN = '8978422983:AAHbdbBZpv7T2vVt5LE0dnP3_xYq4SNOyqY'
 DATA_FILE = "user_data.json"
 
 ENABLE_CHANNEL_CHECK = True
